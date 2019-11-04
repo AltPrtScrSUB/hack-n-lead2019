@@ -48,4 +48,4 @@ Term Frequency–Inverse Document Frequency is a numerical statistic that reflec
 
 - Our project is designed to detect a slavery situation based on the user text input. It finds similar patterns in the complaint provided by a potential victim and already existing court cases which were solved in a favor of victims of modern slavery.
 - We use natural language processing (NLP) model to classify the complaint as one of the following types of human rights violation: labor, minor sex, adult sex, and also identifies cases not related to either of those.
-- It also proposes action depending on situation
+- It also might propose action depending on situation
